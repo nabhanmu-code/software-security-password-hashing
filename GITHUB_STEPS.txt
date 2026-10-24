@@ -1,5 +1,0 @@
-GitHub repository
-
-https://github.com/nabhanmu-code/software-security-password-hashing
-
-The repository has been created for this assignment. The local .gitignore excludes users.txt; do not force-add or upload real user records. The included test account records were removed after testing.
