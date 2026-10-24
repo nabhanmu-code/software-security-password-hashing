@@ -14,7 +14,7 @@ The same PHP file can also run in the command line with `C:\xampp\php\php.exe pa
 
 ## Verification
 
-The application was tested through the local XAMPP browser with a new registration, correct-password login, incorrect-password login, and an unregistered username. The detailed results are in `test-results.txt`; the real screenshots are in `screenshots/` and embedded in `Password_Hashing_Report.docx`.
+The application was tested through the local XAMPP browser with a new registration, correct-password login, incorrect-password login, and an unregistered username. The detailed results are in `test-results.txt`; the genuine screenshots are saved in the local `screenshots/` folder, embedded in `Password_Hashing_Report.docx`, and uploaded to the repository root as four JPEG files.
 
 ## GitHub
 
