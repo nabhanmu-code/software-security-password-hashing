@@ -1,0 +1,10 @@
+XAMPP browser test results (PHP 8.2.12)
+
+- New user registration: PASS — the app displayed “Registration successful.”
+- Correct password login: PASS — the app displayed “Login successful.”
+- Incorrect password login: PASS — the app displayed “Login failed. Username or password is incorrect.”
+- Unregistered username login: PASS — the app displayed the same generic login failure.
+- Salt and hash storage: PASS — two temporary accounts had different 32-character hex salts and 64-character SHA-256 hashes; neither original test password appeared in users.txt.
+- Cleanup: the temporary test records were removed after verification; users.txt is empty.
+
+Genuine browser screenshots of the first four outcomes are saved in screenshots/ and embedded in Password_Hashing_Report.docx.
